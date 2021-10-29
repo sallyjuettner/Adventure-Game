@@ -1,2 +1,3 @@
 This is a text-based mystery adventure game in which you play as a teen detective solving the murder of the chef at your local diner.
 Can you uncover the culprit and bring the killer to justice?
+Play to find out!
